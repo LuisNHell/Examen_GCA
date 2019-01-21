@@ -1,0 +1,11 @@
+C:\Examen_GCA\Examen_GCA\Examen_GCA.UWP\obj\x86\Debug\Examen_GCA.UWP.csprojAssemblyReference.cache
+C:\Examen_GCA\Examen_GCA\Examen_GCA.UWP\obj\x86\Debug\App.g.i.cs
+C:\Examen_GCA\Examen_GCA\Examen_GCA.UWP\obj\x86\Debug\App.g.cs
+C:\Examen_GCA\Examen_GCA\Examen_GCA.UWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Examen_GCA\Examen_GCA\Examen_GCA.UWP\obj\x86\Debug\MainPage.g.cs
+C:\Examen_GCA\Examen_GCA\Examen_GCA.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Examen_GCA\Examen_GCA\Examen_GCA.UWP\obj\x86\Debug\App.xaml
+C:\Examen_GCA\Examen_GCA\Examen_GCA.UWP\obj\x86\Debug\MainPage.xaml
+C:\Examen_GCA\Examen_GCA\Examen_GCA.UWP\obj\x86\Debug\App.xbf
+C:\Examen_GCA\Examen_GCA\Examen_GCA.UWP\obj\x86\Debug\MainPage.xbf
+C:\Examen_GCA\Examen_GCA\Examen_GCA.UWP\obj\x86\Debug\XamlSaveStateFile.xml

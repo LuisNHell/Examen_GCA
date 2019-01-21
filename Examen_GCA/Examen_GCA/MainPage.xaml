@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Examen_GCA"
+             x:Class="Examen_GCA.MainPage">
+
+    <StackLayout>
+    <!-- Place new controls here -->
+        <Label Text="{Binding PersonaId}" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+    <ListView ItemsSource="{Binding Personas}"
+                  HasUnevenRows="True"
+                  BackgroundColor="#ecf0f1"
+                  SeparatorVisibility="None"
+                  HorizontalOptions="FillAndExpand"
+                  VerticalOptions="FillAndExpand">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Margin="6,4,6,4" BackgroundColor="White">
+                        <Label Text="{Binding PersonaId}" Margin="8" FontAttributes="Bold" FontSize="Medium"/>
+                        <Label Text="{Binding Nombre}" Margin="8" FontAttributes="Bold" FontSize="Large"/>
+                        <Label Text="{Binding Apellidos}" Margin="8" FontAttributes="Bold" FontSize="Small"/>
+                        <Label Text="{Binding Edad}" Margin="8" FontAttributes="Bold" FontSize="Small"/>
+                        <Label Text="{Binding Genero}" Margin="8" FontAttributes="Bold" FontSize="Micro"/>
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+    </StackLayout>
+
+</ContentPage>

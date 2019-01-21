@@ -1,0 +1,13 @@
+C:\Examen_GCA\Examen_GCA\Examen_GCA\obj\Debug\netstandard2.0\Examen_GCA.csprojAssemblyReference.cache
+C:\Examen_GCA\Examen_GCA\Examen_GCA\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Examen_GCA\Examen_GCA\Examen_GCA\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Examen_GCA\Examen_GCA\Examen_GCA\obj\Debug\netstandard2.0\Views\PersonaPage.xaml.g.cs
+C:\Examen_GCA\Examen_GCA\Examen_GCA\obj\Debug\netstandard2.0\Examen_GCA.csproj.CoreCompileInputs.cache
+C:\Examen_GCA\Examen_GCA\Examen_GCA\obj\Debug\netstandard2.0\Examen_GCA.AssemblyInfoInputs.cache
+C:\Examen_GCA\Examen_GCA\Examen_GCA\obj\Debug\netstandard2.0\Examen_GCA.AssemblyInfo.cs
+C:\Examen_GCA\Examen_GCA\Examen_GCA\bin\Debug\netstandard2.0\Examen_GCA.deps.json
+C:\Examen_GCA\Examen_GCA\Examen_GCA\bin\Debug\netstandard2.0\Examen_GCA.dll
+C:\Examen_GCA\Examen_GCA\Examen_GCA\bin\Debug\netstandard2.0\Examen_GCA.pdb
+C:\Examen_GCA\Examen_GCA\Examen_GCA\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Examen_GCA\Examen_GCA\Examen_GCA\obj\Debug\netstandard2.0\Examen_GCA.dll
+C:\Examen_GCA\Examen_GCA\Examen_GCA\obj\Debug\netstandard2.0\Examen_GCA.pdb
